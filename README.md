@@ -11,6 +11,7 @@
 Go to `Sniper Mode` => `usage` 
 
 ## Usage:
+use compiled ts code `tsc`
 start Application: `npm run start`.
 
 ## Config
